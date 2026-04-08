@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Production build
+dist/
+
+# OS / IDE files
+.DS_Store
+.env
