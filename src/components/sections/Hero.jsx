@@ -46,7 +46,7 @@ export default function Hero() {
               className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-primary-400/40 bg-primary-400/10 text-primary-600 dark:text-primary-400 text-sm font-medium mb-6"
             >
               <span className="w-2 h-2 rounded-full bg-primary-400 animate-pulse" />
-              IT Undergraduate | Software Developer
+              IT Undergraduate 
             </motion.div>
 
             <motion.p
