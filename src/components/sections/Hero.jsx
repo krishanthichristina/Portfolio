@@ -55,7 +55,7 @@ export default function Hero() {
               transition={{ delay: 0.6, duration: 0.6 }}
               className="text-gray-600 dark:text-gray-400 text-base leading-relaxed mb-8 max-w-md"
             >
-              Krishanthi is a passionate and adaptable IT student with experience in Java, Spring Boot, React, and AI technologies. She transforms ideas into captivating software that resonates and inspires.
+               Passionate and adaptable IT student with experience in Java, Spring Boot, React, and AI technologies. I transform ideas into captivating software that resonates and inspires.
             </motion.p>
 
             <motion.div

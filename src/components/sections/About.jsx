@@ -52,10 +52,10 @@ export default function About() {
               Krishanthi Christina
             </motion.h3>
             <motion.p variants={item} className="text-gray-600 dark:text-gray-400 leading-relaxed mb-4">
-              I'm a passionate IT undergraduate with a strong foundation in software development, specializing in Java, Spring Boot, React, and AI technologies. I thrive on turning complex problems into elegant, functional solutions.
+              I'm a passionate IT undergraduate with a strong foundation in software development, practicing Java, Spring Boot, React, and AI technologies. I thrive on turning complex problems into elegant, functional solutions.
             </motion.p>
             <motion.p variants={item} className="text-gray-600 dark:text-gray-400 leading-relaxed mb-6">
-              As a team player and fast learner, I actively contribute to open-source projects and hackathons. My involvement in AIESEC has sharpened my leadership and cross-cultural communication skills, making me a versatile developer who brings both technical depth and human insight to every project.
+              As a team player and fast learner, I actively contribute to open-source projects and hackathons. My involvement in AIESEC has sharpened my leadership and cross-cultural communication skills, making me a good developer who brings both technical depth and human insight to every project.
             </motion.p>
 
             {/* Strength badges */}
