@@ -5,7 +5,7 @@ export const experiences = [
     org: "AIESEC in University of Ruhuna",
     period: "2023 – 2024",
     description:
-      "Led the incoming Global Volunteer Marketing & International Relations team, coordinating global exchange programs and managing international partnerships.",
+      "Led the incoming Global Volunteer Matching & International Relations team, coordinating global exchange programs and managing international volunnteers.",
     type: "Leadership",
     icon: "FaUsers",
     side: "left",
@@ -27,7 +27,7 @@ export const experiences = [
     org: "Hacktrail 1.0 Inter-Faculty Hackathon 2024",
     period: "2024",
     description:
-      "Secured Runners Up position with a prize of Rs. 3,000 competing against faculty teams in a 24-hour hackathon challenge.",
+      "Secured Runners Up position with a prize of Rs. 3,000 competing against number of teams in a 24-hour hackathon challenge.",
     type: "Achievement",
     icon: "FaTrophy",
     side: "left",
