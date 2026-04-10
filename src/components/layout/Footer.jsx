@@ -2,8 +2,8 @@ import { FaGithub, FaLinkedin } from 'react-icons/fa'
 import { MdEmail } from 'react-icons/md'
 
 const socials = [
-  { icon: FaGithub, href: 'https://github.com/krishkrishanthi01', label: 'GitHub' },
-  { icon: FaLinkedin, href: 'https://linkedin.com/in/krishanthi-christina', label: 'LinkedIn' },
+  { icon: FaGithub, href: 'https://github.com/krishanthichristina', label: 'GitHub' },
+  { icon: FaLinkedin, href: 'https://www.linkedin.com/in/krishanthichristina/', label: 'LinkedIn' },
   { icon: MdEmail, href: 'mailto:krishkrishanthi01@gmail.com', label: 'Email' },
 ]
 
@@ -12,7 +12,7 @@ export default function Footer() {
     <footer className="bg-gray-900 text-gray-300 py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-8 flex flex-col items-center gap-4">
         <span className="text-2xl font-bold gradient-text">Krishanthi Christina</span>
-        <p className="text-sm text-gray-500">IT Undergraduate | Software Developer</p>
+        <p className="text-sm text-gray-500">IT Undergraduate</p>
         <div className="flex gap-5 mt-2">
           {socials.map(({ icon: Icon, href, label }) => (
             <a

@@ -5,8 +5,8 @@ export const projects = [
     description:
       "A full-stack web platform built for AIESEC operations management, handling member data, exchange programs, and reporting dashboards.",
     tech: ["React", "Spring Boot", "MySQL", "REST API"],
-    github: "https://github.com/krishkrishanthi01",
-    live: null,
+    github: "https://github.com/hewageumesha/AIESEC_Ruhuna",
+    live: "https://aiesec-ruhuna.vercel.app/",
     number: "01",
   },
   {
@@ -15,7 +15,7 @@ export const projects = [
     description:
       "A desktop real-time chat application built with Java Swing, supporting multi-user communication via TCP socket programming.",
     tech: ["Java", "Swing", "Socket Programming", "TCP/IP"],
-    github: "https://github.com/krishkrishanthi01",
+    github: "https://github.com/hewageumesha/ChatAppSystem",
     live: null,
     number: "02",
   },
@@ -25,7 +25,7 @@ export const projects = [
     description:
       "A productivity tool for managing tasks and projects with assignment, status tracking, and priority-based workflows.",
     tech: ["React", "PHP", "MySQL"],
-    github: "https://github.com/krishkrishanthi01",
+    github: "https://github.com/krishanthichristina/Task-Management-System",
     live: null,
     number: "03",
   },

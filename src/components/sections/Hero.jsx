@@ -85,7 +85,7 @@ export default function Hero() {
               className="flex items-center gap-5"
             >
               <a
-                href="https://github.com/krishkrishanthi01"
+                href="https://github.com/krishanthichristina"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-primary-500 dark:hover:text-primary-400 transition-colors text-sm font-medium"
@@ -94,7 +94,7 @@ export default function Hero() {
                 GitHub
               </a>
               <a
-                href="https://linkedin.com/in/krishanthi-christina"
+                href="https://www.linkedin.com/in/krishanthichristina/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-primary-500 dark:hover:text-primary-400 transition-colors text-sm font-medium"
