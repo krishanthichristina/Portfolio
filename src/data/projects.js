@@ -25,8 +25,8 @@ export const projects = [
     description:
       "A productivity tool for managing tasks and projects with assignment, status tracking, and priority-based workflows.",
     tech: ["React", "PHP", "MySQL"],
-    github: null,
-    live: "https://github.com/krishanthichristina/Task-Management-System",
+    github: "https://github.com/krishanthichristina/Task-Management-System",
+    live: null,
     number: "03",
   },
 ]
