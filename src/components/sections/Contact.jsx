@@ -11,8 +11,8 @@ const contactInfo = [
 ]
 
 const socials = [
-  { icon: FaGithub, href: 'https://github.com/krishkrishanthi01', label: 'GitHub' },
-  { icon: FaLinkedin, href: 'https://linkedin.com/in/krishanthi-christina', label: 'LinkedIn' },
+  { icon: FaGithub, href: 'https://github.com/krishanthichristina', label: 'GitHub' },
+  { icon: FaLinkedin, href: 'https://www.linkedin.com/in/krishanthichristina/', label: 'LinkedIn' },
 ]
 
 export default function Contact() {
